@@ -86,6 +86,15 @@ h1 {
     font: 12px/15px 'Helvetica Neue','Arial Nova',Helvetica,Arial,sans-serif;
 }
 
+.container-socialmedia img {
+    margin-right: 20px;
+    width: 20px;
+    height: 20px;
+}
+
+.container-socialmedia img:hover{
+    opacity: 0.8;
+}
 article p {
     margin: 14px 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
