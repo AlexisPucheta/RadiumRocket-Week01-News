@@ -135,6 +135,16 @@ figcaption {
     background: #0098fe;
 }
 
+.navigation {
+    width:auto;
+    text-align: center;
+    border: 1px solid  #0098fe;
+    height: 50px;
+}
+.navigation a {
+    position: relative;
+    top:15px;
+}
 .footer_container {
     width: 880px;
     height: 722px;
